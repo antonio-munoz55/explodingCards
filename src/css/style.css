@@ -120,7 +120,7 @@ button:active{
 }
 
 .title{
-    font-size: 48px;
+    font-size: 2.5rem;
     background: linear-gradient(45deg, var(--gradient-orange), var(--gradient-yellow));
     border-radius: 12px;
     padding: 8px;
@@ -148,7 +148,7 @@ button:active{
 /* Responsive styles for screens with a maximum width of 420px */
 @media(max-width: 420px){
     .title{
-        font-size: 28px;
+        font-size: 1.5rem;
     }
     .cardStyle{
         width: 320px;
